@@ -47,6 +47,11 @@ namespace SpecFlowCalculator.Specs.StepDefinitions
             //throw new PendingStepException();
             result = calculator.Add();
         }
+        [When(@"the two numbers are subtracted")]
+        public void WhenTheTwoNumbersAreSubtracted()
+        {
+            result = calculator.Subtract();
+        }
 
         [Then("the result should be (.*)")]
         public void ThenTheResultShouldBe(int result)
@@ -57,4 +62,5 @@ namespace SpecFlowCalculator.Specs.StepDefinitions
             result.Should().Be(result);
         }
     }
+   
 }

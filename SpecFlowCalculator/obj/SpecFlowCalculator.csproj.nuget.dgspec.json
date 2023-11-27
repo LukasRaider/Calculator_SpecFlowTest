@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\source\\repos\\CSharpAdvance\\SpecFlowCalculator\\SpecFlowCalculator\\SpecFlowCalculator.csproj": {}
+    "C:\\Users\\Lenovo\\source\\repos\\ASP.NET\\WebApplication1\\Calculator_SpecFlowTest\\SpecFlowCalculator\\SpecFlowCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\source\\repos\\CSharpAdvance\\SpecFlowCalculator\\SpecFlowCalculator\\SpecFlowCalculator.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\ASP.NET\\WebApplication1\\Calculator_SpecFlowTest\\SpecFlowCalculator\\SpecFlowCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\CSharpAdvance\\SpecFlowCalculator\\SpecFlowCalculator\\SpecFlowCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\ASP.NET\\WebApplication1\\Calculator_SpecFlowTest\\SpecFlowCalculator\\SpecFlowCalculator.csproj",
         "projectName": "SpecFlowCalculator",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\CSharpAdvance\\SpecFlowCalculator\\SpecFlowCalculator\\SpecFlowCalculator.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\ASP.NET\\WebApplication1\\Calculator_SpecFlowTest\\SpecFlowCalculator\\SpecFlowCalculator.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\CSharpAdvance\\SpecFlowCalculator\\SpecFlowCalculator\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\ASP.NET\\WebApplication1\\Calculator_SpecFlowTest\\SpecFlowCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

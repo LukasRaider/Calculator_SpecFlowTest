@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OkDyhCoXE4So3ILD8qnzlnDaZMH9fTMLV1mwf4Um77Jq9wqun1KDaco1YbawOg2OhnJdUsuWj4euEWIcbjnitw==",
+  "dgSpecHash": "j5LNwQWOgOHCf7JLCXjJA6eIFcoV18A08qRsCoRbgZm1d2EYARTK3W5/iXyg4zF08O2YyFKKMGMK1EeNU9N1aA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\CSharpAdvance\\SpecFlowCalculator\\SpecFlowCalculator.Specs\\SpecFlowCalculator.Specs.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\ASP.NET\\WebApplication1\\Calculator_SpecFlowTest\\SpecFlowCalculator.Specs\\SpecFlowCalculator.Specs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\fluentassertions\\6.2.0\\fluentassertions.6.2.0.nupkg.sha512",
