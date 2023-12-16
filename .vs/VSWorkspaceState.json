@@ -3,8 +3,10 @@
     "",
     "\\SpecFlowCalculator",
     "\\SpecFlowCalculator.Specs",
-    "\\SpecFlowCalculator.Specs\\Features"
+    "\\SpecFlowCalculator.Specs\\Features",
+    "\\SpecFlowCalculator.Specs\\SpecFlowCalculator.Specs",
+    "\\SpecFlowCalculator.Specs\\StepDefinitions"
   ],
-  "SelectedNode": "\\SpecFlowCalculator\\Calculator.cs",
+  "SelectedNode": "\\SpecFlowCalculator.Specs\\StepDefinitions\\CalculatorStepDefinitions.cs",
   "PreviewInSolutionExplorer": false
 }
