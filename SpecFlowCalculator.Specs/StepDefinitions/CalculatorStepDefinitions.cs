@@ -47,11 +47,6 @@ namespace SpecFlowCalculator.Specs.StepDefinitions
             //throw new PendingStepException();
             result = calculator.Add();
         }
-        [When(@"the two numbers are subtracted")]
-        public void WhenTheTwoNumbersAreSubtracted()
-        {
-            result = calculator.Subtract();
-        }
 
         [Then("the result should be (.*)")]
         public void ThenTheResultShouldBe(int result)
@@ -61,6 +56,43 @@ namespace SpecFlowCalculator.Specs.StepDefinitions
             //throw new PendingStepException();
             result.Should().Be(result);
         }
-    }
-   
+
+		[When(@"the two numbers are subtract")]
+		public void WhenTheTwoNumbersAreSubtract()
+		{
+			result = calculator.Subtract();
+		}
+
+		[When(@"the two numbers are multiplication")]
+		public void WhenTheTwoNumbersAreMultiplication()
+		{
+			result = calculator.Multiplication();
+		}
+
+		[When(@"the two numbers are division")]
+		public void WhenTheTwoNumbersAreDivision()
+		{
+			result = Convert.ToInt32( calculator.Division());
+		}
+
+		[When(@"the two number are residue")]
+		public void WhenTheTwoNumberAreResidue()
+		{
+			result = calculator.Residue();
+		}
+
+		[When(@"number is empowermentFirst")]
+		public void WhenNumberIsEmpowermentFirst()
+		{
+            result = calculator.EmpowermentFirstNumber();
+		}
+
+		[When(@"number is empowermentSecond")]
+		public void WhenNumberIsEmpowermentSecond()
+		{
+            result = calculator.EmpowermentSecondNumber();
+		}
+
+
+	}
 }
